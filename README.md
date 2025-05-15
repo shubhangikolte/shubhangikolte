@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey there, I'm Shubhangi!
 
-<!--
-**shubhangikolte/shubhangikolte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I’m currently working on Salesforce Sales Cloud automation using Page Object Model frameworks.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning AI-driven test automation and advanced Salesforce testing techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on open-source QA automation projects and innovative AI testing frameworks.
+
+🤔 I’m looking for help with integrating AI models into test automation for more intelligent test case generation.
+
+💬 Ask me about Salesforce CRM testing, Selenium WebDriver, TestNG, and QA best practices.
+
+📫 How to reach me: www.linkedin.com/in/shubhangikolte09
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I have 5 awards for consistently meeting tight deadlines and delivering top-notch test coverage.
